@@ -35,8 +35,8 @@ Here are some of the key projects featured on the site:
 ## 📬 Contact
 
 **John S. Garvey**
-*   LinkedIn
-*   GitHub
+*   LinkedIn: https://www.linkedin.com/in/john-s-garvey/
+*   GitHub: https://github.com/jgarvey928
 *   Email: jgarvey928@ieee.org
 
 ---
